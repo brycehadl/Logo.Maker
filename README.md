@@ -26,7 +26,7 @@ The purpose of this program is to enable independent web developers to generate 
 
 ## Live Screen Recording of Application Functionality
 
-[git@github.com:brycehadl/Logo.Maker.git](https://drive.google.com/file/d/14OE4AmFV3LSOEiZJurpC4jeEDQiV-yPy/view)
+https://drive.google.com/file/d/14OE4AmFV3LSOEiZJurpC4jeEDQiV-yPy/view
 
 ## Screenshots
 
